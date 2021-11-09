@@ -1,2 +1,1 @@
-# A7TWU-JS-TranslatorAPP-2021
-Created with CodeSandbox
+# 2019-TWW-translator-app-skeleton
